@@ -8,7 +8,7 @@
 | TeamName    |         Unknown        |
 | Captain     |  Kervi Jay Javonillo   |
 | Captain     |  kjavo2@illinois.edu   |
-| Member1     |  Rudy Juarez-Ovallos   |
+| Member1     |     Rodolfo Juarez     |
 | Member1     |   rjuare8@illinois.edu |
 | Member2     |   Sebastian Carrera    |
 | Member2     |  carrera9@illinois.edu |
