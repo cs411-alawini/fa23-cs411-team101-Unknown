@@ -17,12 +17,12 @@
 
 ## Project Information
 
-|   Info      |        Description     |
-| ----------- | ---------------------- |
-|   Title     |       ProjectTitle     |
-| System URL  |      link_to_system    |
-| Video Link  |      link_to_video     |
+|   Info       |        Description      |
+| ------------ | ----------------------- |
+|   Title      | Steam Games Recommender |
+| System URL   |      link_to_system     |
+| Video Link   |      link_to_video      |
 
 ## Project Summary
 
-This is a summary of the project!
+Our project will utilize the Steam games database. Using this database, we will construct a web application that will recommend games based on filters inputted by the user. We will have a number of filters that will allow the user to construct exactly what type of game they are interested in. This will allow multiple games to be recommended with high accuracy based on the data. 
